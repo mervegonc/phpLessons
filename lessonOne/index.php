@@ -10,8 +10,9 @@
 <body>
     <?php
     $name = "John";
+    $valueToBeAssaigned = $name;
     ?>
-    <p>Hello I'am <?php echo $name; ?>, and Iam Mastering PHP</p>
+    <p>Hello I'am <?php echo $valueToBeAssaigned; ?>, and Iam Mastering PHP</p>
 </body>
 
 </html>
