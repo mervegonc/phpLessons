@@ -7,6 +7,9 @@
     </head>
 <body>
   <p>Lesson One</p>
+  <?php
+  echo "Hello World";
+  ?>
 </body>
 </html>
 
