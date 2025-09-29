@@ -9,24 +9,9 @@
 
 <body>
     <?php
-    /*A variable is like a box with a label for what it holds, and variables have dollar signs in front of their names*/
-    //Scalar data types: string, integer, float, boolean
-    $string = "Hello World";
-    $integer = 42;
-    $float = 3.14;
-    $boolean = true;
-
-    //array data types: array, object
-    $array = array("John", "Jane", "Doe");
-    $array = ["John", "Jane", "Doe"];
-    //default
-    $string = "";
-    $integer = 0;
-    $float = 0;
-    $boolean = false;
-    $array = [];
-    $object = null;
+    $name = "John";
     ?>
+    <p>Hello I'am <?php echo $name; ?>, and Iam Mastering PHP</p>
 </body>
 
 </html>
