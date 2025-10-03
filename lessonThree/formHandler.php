@@ -18,9 +18,7 @@ echo $lastname;
 echo "<br>";
 echo $favouritepet;
 
-header("Location: /phplessons/lessonThree/index.php");
 
-}else   {
-   header("Location: /phplessons/lessonThree/index.php");
+
 }
 ?>
