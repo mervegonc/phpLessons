@@ -2,7 +2,7 @@
 
 <body>
     <main>
-        <form action="includes/formhandler.php" method="get">
+        <form action="" method="post">
             <label for="firstname">Firstname?</label>
             <input id="firstname" type="text" name="firstname" placeholder="Firstname...">
 
