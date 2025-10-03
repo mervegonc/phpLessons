@@ -4,7 +4,7 @@
     <main>
         <form action="" method="post">
             <label for="firstname">Firstname?</label>
-            <input id="firstname" type="text" name="firstname" placeholder="Firstname...">
+            <input required id="firstname" type="text" name="firstname" placeholder="Firstname...">
 
             <label for="lastname">Lastname?</label>
             <input id="lastname" type="text" name="lastname" placeholder="Lastname...">
